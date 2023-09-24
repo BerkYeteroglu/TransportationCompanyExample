@@ -17,6 +17,7 @@
 import Foundation
 
 class Deneme{
+    let order1 = Order(orderID: 0001, isItPrepaid: true, vehicleInfo: .createTanker(vehicleID: 0101, vehicleDriver: "Ali veli", vehicleCapacity: 256.3, cargoType: .dryFood))
     
 }
 

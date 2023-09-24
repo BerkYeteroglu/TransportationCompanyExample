@@ -8,15 +8,15 @@
 import Foundation
 
 enum VehicleType {
-    case Truck
-    case LongTruck
-    case Train
-    case Tanker
+    case truck
+    case longTruck
+    case train
+    case tanker
 }
 
 enum CargoType {
-    case DryCargo
-    case LiquidCargo
-    case LiquidFuel
-    case DryFood
+    case dryCargo
+    case liquidCargo
+    case liquidFuel
+    case dryFood
 }

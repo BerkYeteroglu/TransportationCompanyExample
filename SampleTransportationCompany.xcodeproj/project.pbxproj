@@ -64,9 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				A1F36D752AB8612B00FBCC4F /* main.swift */,
+				A12C2CE32AC07BA700C49C81 /* VehicleAndCargoType.swift */,
 				A15E9F242AC030D100182DAD /* Vehicle.swift */,
 				A15E9F262AC032D400182DAD /* Order.swift */,
-				A12C2CE32AC07BA700C49C81 /* VehicleAndCargoType.swift */,
 			);
 			path = SampleTransportationCompany;
 			sourceTree = "<group>";
