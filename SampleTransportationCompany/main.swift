@@ -16,7 +16,7 @@
 
 import Foundation
 
-class Deneme{
+class TestToTheCompany{
     
 }
 
